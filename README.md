@@ -13,7 +13,7 @@ required. An optional hosted demo uses the same audit engine with sample configs
 
 ---
 
-## What it does
+## What it does...
 
 | Capability | Where it lives | Status |
 |---|---|---|
